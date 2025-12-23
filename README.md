@@ -1,2 +1,10 @@
 # student-record-management-cpp
-Student Record Management System in C++ -Menu-driven console application , Uses structures and arrays , Allows display and search of student records
+Features:
+- Store multiple student records
+- Display all student details
+- Search student by roll number
+
+Concepts used:
+- Structures
+- Arrays
+- Loops and conditional statements
